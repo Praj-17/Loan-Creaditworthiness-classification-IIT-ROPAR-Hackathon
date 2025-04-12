@@ -53,7 +53,8 @@ Loan-Creaditworthiness-classification-main/ ├── Archives/ │ ├── da
 
 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/d4e28b0b-613c-42ca-9c72-6f141aeacd21)
+![image](https://github.com/user-attachments/assets/fce7586f-c6f2-4a8d-a41a-42cc03b77cb7)
+
 
 ** Video Demo 📼 
 
@@ -76,6 +77,12 @@ Developed by Prajwal Waykos, Eklavya Mishra, Ashutosh Vashishth for a hackathon 
   ```bash
 This project is licensed under the MIT License.
   ```
+
+PPT - 
+
+[Artificial Intelligence Presentation.pdf](https://github.com/user-attachments/files/19720027/Blue.and.Green.Modern.Artificial.Intelligence.Presentation.pdf)
+
+
 
 
 ---
